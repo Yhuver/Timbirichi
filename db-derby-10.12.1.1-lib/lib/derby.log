@@ -1,0 +1,14 @@
+Tue Dec 06 00:51:21 COT 2016 : Servidor de red Apache Derby: Se ha iniciado 10.12.1.1 - (1704137) y está listo para aceptar las conexiones en el puerto 1527
+----------------------------------------------------------------
+Tue Dec 06 00:51:33 COT 2016:
+ Iniciando instancia a816c00e-0158-d2af-ac83-00006e4540f7 de Derby, versión The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): 
+en el directorio de base de datos C:\Users\YHUVER\Desktop\TIMBIRICHI POO II\TIMBIRICHI POO II\Timbirichi\db-derby-10.12.1.1-lib\lib\PROYECTOPOO2 con el cargador de clases sun.misc.Launcher$AppClassLoader@1f96302
+Cargado desde file:/C:/Users/YHUVER/Desktop/TIMBIRICHI%20POO%20II/TIMBIRICHI%20POO%20II/Timbirichi/db-derby-10.12.1.1-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Users\YHUVER\Desktop\TIMBIRICHI POO II\TIMBIRICHI POO II\Timbirichi\db-derby-10.12.1.1-lib\lib
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=C:\Users\YHUVER\Desktop\TIMBIRICHI POO II\TIMBIRICHI POO II\Timbirichi\db-derby-10.12.1.1-lib\lib
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
